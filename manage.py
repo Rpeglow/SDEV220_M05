@@ -1,3 +1,8 @@
+"""Reed Peglow
+SDEV 220 
+M05 Tutorial - Django Deploy and Views"""
+
+
 #!/usr/bin/env python
 """Django's command-line utility for administrative tasks."""
 import os
